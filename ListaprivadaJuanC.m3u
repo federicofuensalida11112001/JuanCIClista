@@ -1,0 +1,392 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="DEPORTES ARGENTINA HD", ESPN SUR
+http://planettvweb.com:8091/Garreta25/DFur4638d/20324
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES ARGENTINA HD", ESPN 2 SUR_
+http://planettvweb.com:8091/Garreta25/DFur4638d/20325
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="DEPORTES ARGENTINA HD", ESPN 4 HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/21457
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="DEPORTES ARGENTINA HD", ESPN ARG HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/12755
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES ARGENTINA HD", ESPN 2 HD ARG
+http://planettvweb.com:8091/Garreta25/DFur4638d/11996
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES ARGENTINA HD", ESPN 3 HD ARG
+http://planettvweb.com:8091/Garreta25/DFur4638d/11915
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="DEPORTES ARGENTINA HD", ESPN PREMIUM ARG
+http://planettvweb.com:8091/Garreta25/DFur4638d/14637
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES ARGENTINA HD", FOX SPORTS HD SUR
+http://planettvweb.com:8091/Garreta25/DFur4638d/11702
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="DEPORTES ARGENTINA HD", FOX SPORTS 2 SUR HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/20328
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Torneos.png/220px-Torneos.png" group-title="DEPORTES ARGENTINA HD", TYC SPORTS 2
+http://planettvweb.com:8091/Garreta25/DFur4638d/20327
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="DEPORTES ARGENTINA HD", TYC SPORTS INTERNACIONAL
+http://planettvweb.com:8091/Garreta25/DFur4638d/16278
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="DEPORTES", Directv Sports 1 HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/12739
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="DEPORTES", Directv Sport 2 HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/12042
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="DEPORTES", Directv Sport +
+http://planettvweb.com:8091/Garreta25/DFur4638d/12738
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="DEPORTES", Directv Sports 1 SD
+http://planettvweb.com:8091/Garreta25/DFur4638d/12019
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES", FOX SPORTS PREMIUM SUR
+http://planettvweb.com:8091/Garreta25/DFur4638d/20321
+
+#EXTINF:-1 tvg-logo="https://iili.io/BEUKlmx.png" group-title="DEPORTES", ESPN 5 SUR
+http://planettvweb.com:8091/Garreta25/DFur4638d/17719
+
+#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAkFBMVEX////tHCTtAA783uDsAADtFB7sAhP0j5LwSk/zjI/+7/Dziozzh4rtGCH1k5btEBrxZGjuJC3tCxf+8vPvO0H4trj/+vvyaW32m57zeXz85eb3qavycHT72tvvQEb2pKb6ysvxXWHwUVb3srT5xcbuLjXtICn5vsD60dL6ycvwTlP96enydXjvNDvzgYXxWV5iVG2JAAAFY0lEQVR4nO3a6XKrOBAGUKEI7BDLxIDxnsXOYk+293+7EXYcWphWc2tuTc3c+s5PR0hqoZ0oBQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/DcVAMv5OWe1XYzExaz5dnvMJ5nJ/qJiaXu3GN4zRKhDhlUnC9N0xXTqYaC0kDWZjku3+lFMwH22iQVeM02HgMTMKRPhgorBsVid7tdoKCUWZuT+2qQ4ns7pM27Wsbk0ceETvAhGuhPKi5Mal2pl/HF/NvLq8nqQ2jfK7doBlEs53H4hwHH7Wtc+qbvbfEmAUP/dp0++WIGZCJc3FSyfWuVTak1K3UqK+zEapgdSm7iWuvTpKI8lmgQDVMNS/vyv1lvyeV3gaMLNMTBb73fRReCJu92qPlSqvU/Uqjpy+9LxHm7qX8kyn01Rq4GzNhufGsFR5O6nUvTxyetJuNo3kDmE/aITi1JQMAhEupafjoVKf8sjpyUzlNnWyv2gdLxvY+kxosTgYHWYeldpKiXpz0/qyR2ZmRuu4aOY5G2dH8bdjgLF5CERYbK4Eb+5FS2l621SqEks8FdogE02ySd9qqY/b6P1flD9TUz0p/IGKl5+pqZ4U/kDLZp7L3n/98cehoCzUoQz8ffu+Oh+LZlJewzt3ElvTH0hNRnekUNoZ983ka8vZrWe2Hq02wQCLZlrqlmm3kTShBLnWs+KYmRXyimMzV9Vzk8rbYW9zkiet45QsFjZryd1xa3sViFBcDu1H13rUkkzqua/HQueWwyJrFnxvL/LR/O7vwuZS8Xm8VKy9eDp0y+FO3NLkwz6tddzjXpFUdC/iRc4th1wlSz7CqVSr/FOpTY+qH3q0VmRfCu+coMnlw5KJ3HVfeR8bOB+KPaDeKquJWEYy8scLk9nC7xD1weyMi9yVLu9jk2s2QrEHuJGj3NlCKiT7cq0l7V6zSeGfuDWZIrjIe+1jc/5w8SWd1U7vf27ycIz1Uiy0VmbKekJY000mOZp7kdMFwBve3oab5D1TnJL0v8x0OU1Tm1nHX+mzX/45Nb5IrLe74yJHRpV3CnxnIveG98uEYiZlD9kQuVmzSjs0adO0oKqKHNbzhdda8bCdV3HOhi4KdMHnIqfd179S2zR/qOfDbmRDFEjFIYd1NyFVpNvw46KImEWBi5x2X/+URG4e9D1XHu0BfCpGRTqAngame2pJJpTjPWVX5Lf0CTK8tbd5IRsRb2ry0OWQT8Uo6Oy391uLvWVnl0PSm2jkdDK0kXd2IjcPht230eUwX4wvDR5UdT3q9k5mlmTpt9aBK5FbFPj2IcP7hRZ/UzZv3RTtcjqawYXY9UFgqlLucwEJsD6Z0tbSvdrUkEVhyi6HZCz4VWx+D9yX9lkOpc8MtdZyaC17B00XzYSk4iL39qts8fx96bP0tFsOD332FAtvOfSnew9dFOiVBI1c0/apxAvd4DIgvR5rqx4nC9cQu9ZyyJY44ZZD0j7eZUz1IUfY/szRSMXL0rLXZwYbF/7mgd1E0U2ml4qLvMeHlVCXEY9F9WZMLiGqvwsu6QC74Up8o4sm/azJRd7jA2cUuBAWv0fk730+Mxzvb/d0KmWXQ26LwUburIVhYgLXU+LpMBmLn25sYsbt1vr1LUZwc3UbOLzZ3LAdxllI3/DNyo2cUAKtJ4vT6WNO0hn2+mvMpJrS3y/mjftn3f0RX+toHbxqW424f2749rlR6ec1b7zanwf5dNT8PGK3GNNziS7VJ0n19FMT9/TlvVK12c0HncWzJQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAv+9vJ/twCrEweAIAAAAASUVORK5CYII=" group-title="DEPORTES", ESPN 6
+http://planettvweb.com:8091/Garreta25/DFur4638d/92313
+
+#EXTINF:-1 tvg-logo="https://img.utdstc.com/icons/tigo-sports-android.png:l" group-title="DEPORTES", ESPN 7 SUR
+http://planettvweb.com:8091/Garreta25/DFur4638d/17720
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES", ESPN 2 HD Colombia
+http://planettvweb.com:8091/Garreta25/DFur4638d/11905
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES", ESPN 2 CHILE
+http://planettvweb.com:8091/Garreta25/DFur4638d/11966
+
+#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALkAAAC5CAMAAABDc25uAAAAh1BMVEX////tHCT95ebvOUDtICfvMDj0cHX/+/vyX2T0eX32kpX+8PD83N7wSE7vNz7uKC/wP0X7z9H+9vb5tbjuJi3xUVjyVlz81tf5urz7x8n+8fH96+vvNDv1gYbwQUj4oqXzanD2iY33nKD5r7L4p6r2j5P0dXrzbHH6w8XzY2n3n6LxU1n1f4OBJvWDAAAD9klEQVR4nO2Y3ZaiMBCEAyKoiIriv6go46jj+z/fhnGHbpPQzroXs2dPfXdKE4qku9JBKQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOC/ZN4OmulWEatJOBoKQW7aSTGv7o46DQFZa7+IuBI/aTeT2MqXmdfMmw5IL1KExKjUyuKkOWB4i5mSdCiM5VB+DIT4Ur/Z6EXdlbKJnsmBEBDkbNYXkpK9rbwnDbzQS/ii6k8+VvJMeu2UlJRSYGErvwnhw1QdpIl4ih5AnEnPO5CSQggLSkt4dBHiB340e0Eve+BEnknPu5GUkxA2PFvKx1MhPlmt/yLLNcFRvckRpDzqCGGbuaXcl6TNon77FcE1wVmcSe/uXnckE/K2a0t5P2k1k6t0K1x+TjJXJzniSHNIJpRZdr4f23nuC8RqLF3+BpFaywGkiJlQt2/iW8L/IZgJ7X5ay5+xo+pYfCe+DJvp+urQcOlUHO8LmAr3h+FRzelHrWdc1P8VlC0FKT/1OOUytnXLdr7xo2bPDEaH6qkH4X7P63E7r3OA1eKUlIeNo2RJaRfoEzsffwiXg0I3HbkkXNs5NReUA3Oy2nf1DeVae2FJF3eaThTtJWHDpVLvYkCquvzHb87UfOYkRZyD7GgqF3eaUD1pW3I1FruD6Ypl46B2NtaesrZFbFq9malc7M4L9aRV7ETrrXBZN7kruj+p64xl0IQtv5S43tBULr5oVVLLRIjQ3cGm+eroGCm/xYK/HkrtacaaXJVKsxSYyskagqRjsqwi/DI0/qYEu/CNb/QYddr11UMxhl/PZBm06XMxfq+TPEJ3W3NOZZEtI5P6UQ+saFW7asJS1nUzK8b6bMD8zGykolX8ABnEyBDOvKPdV9+D2VFPXWnNJq7go2NLZwPMbJ9+kEf1b1Yo82tHH+mG7EgfVApaztQV7LLzvtPOXcRU/6FxyadL7VPXYKf83PxPc6mnMTszO98418xl50tHBik16dnkVEVvxsBz2c5Fz6wSjC2nc814Mbrs/FpHipu5Yyc6SwfzgtefiyRmy+lMWVbNZOfMz6g2xI3h8RvBJ6Vs53I75e0Vs3NnyrKzItk5+RmrjSfHxsRcUel4q0tKbCWqforZueODiNvOFfkZq40niXkzR5b6Mz0hYr/ldWKeTldz7AqnnTv9TE7MgXX0l5rYTV/scb2pnrCX7NxZG1dPoG0P3hLCt7HQAgeDvPIKtgW/YufMpItmIdnM/kykWsJ330vU+Fl4e+ndly8ffJE47byob2nVb5bSQ5lJN+VtNgonrsMcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH6SX/xnR8CAFpE7AAAAAElFTkSuQmCC" group-title="DEPORTES", ESPN 5 HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/12030
+
+#EXTINF:-1 tvg-logo="https://library.kissclipart.com/20180924/bwq/kissclipart-espn-deportes-logo-clipart-espn-deportes-sports-93892b78a6709a4f.png" group-title="DEPORTES", ESPN Deportes HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11913
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-G2-4yYvvcEE/UhECiUQcGMI/AAAAAAAAOmo/a6UhoJrISyg/s1600/cdf+premium+NUEVO.png" group-title="DEPORTES", CL Estadio TNT Sports 2 HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/12045
+
+#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/235/101/png-transparent-green-grass-tvmax-television-logo-television-channel-television-show-tvn-claro-tv-thumbnail.png" group-title="DEPORTES", TV Max
+http://planettvweb.com:8091/Garreta25/DFur4638d/20320
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TENNIS-CHANNEL.png" group-title="DEPORTES", TENNIS CHANNEL
+http://planettvweb.com:8091/Garreta25/DFur4638d/11845
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="DEPORTES", Bein Sports N HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11970
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-gol-peru.png" group-title="DEPORTES", GOL TV HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11965
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="DEPORTES", DAZN F1
+http://planettvweb.com:8091/Garreta25/DFur4638d/16967
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-NBC-GOLF-CHANNEL.png" group-title="DEPORTES", GOLF CHANNEL HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11889
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="DEPORTES", Win Sports Plus SD
+http://planettvweb.com:8091/Garreta25/DFur4638d/38586
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="DEPORTES", Win Sports Plus HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/38587
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="DEPORTES", DAZN 1 FHD
+http://planettvweb.com:8091/Garreta25/DFur4638d/12043
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Bellator_MMA_Logo.png" group-title="DEPORTES", Bellator MMA
+http://planettvweb.com:8091/Garreta25/DFur4638d/41757
+
+#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.2247655092.2658/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg" group-title="DEPORTES", GLORY KICKBOXING
+http://planettvweb.com:8091/Garreta25/DFur4638d/16964
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="DEPORTES ESPAÑA", BEIN SPORT SP
+http://planettvweb.com:8091/Garreta25/DFur4638d/12051
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-EUROSPORT.png" group-title="DEPORTES ESPAÑA", CANAL EURO SPORTS HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/12497
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-EUROSPORT.png" group-title="DEPORTES ESPAÑA", EUROSPORT 2
+http://planettvweb.com:8091/Garreta25/DFur4638d/14263
+
+#EXTINF:-1 tvg-logo="https://tvalcolea.com/wp-content/uploads/2018/03/iberalia.jpg" group-title="DEPORTES ESPAÑA", IBERALIA TV
+http://planettvweb.com:8091/Garreta25/DFur4638d/12113
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-CAZA-Y-PESCA.png" group-title="DEPORTES ESPAÑA", CAZA Y PESCA HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11909
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="DEPORTES ESPAÑA", Dazn Lalig@ 2 HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/12498
+
+#EXTINF:-1 tvg-logo="https://www.newdelhitimes.com/wp-content/uploads/2016/09/La_Liga_logotip.jpg" group-title="DEPORTES ESPAÑA", ESP LIG@ HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/12050
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/aebosn1641133426.png" group-title="DEPORTES ESPAÑA", Fox Deportes
+http://planettvweb.com:8091/Garreta25/DFur4638d/12116
+
+#EXTINF:-1 tvg-logo="https://www.giztele.com/wp-content/uploads/2018/06/Movistar-Deportes.png" group-title="DEPORTES ESPAÑA", MOVISTAR DEPORTES
+http://planettvweb.com:8091/Garreta25/DFur4638d/12049
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuVXSkg-Wvk4MuZZDVby4AUdKHgYWBfC0PVmwjWAxdGlQUohl0" group-title="DEPORTES ESPAÑA", MOVISTAR GOLF
+http://planettvweb.com:8091/Garreta25/DFur4638d/12047
+
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/286-2863527_movistar-formula-1-logo-hd-png-download.png" group-title="DEPORTES ESPAÑA", Movistar Deportes 2 HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/22347
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/800px-FOX_Sports_logo.svg.png" group-title="DEPORTES MEXICO", FOX SPORT HD MEX
+http://planettvweb.com:8091/Garreta25/DFur4638d/12008
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES MEXICO", FOX SPORT 2 HD MEX
+http://planettvweb.com:8091/Garreta25/DFur4638d/12009
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="DEPORTES MEXICO", FOX SPORT 3 HD MEX
+http://planettvweb.com:8091/Garreta25/DFur4638d/12010
+
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="DEPORTES MEXICO", ESPN HD MX
+http://planettvweb.com:8091/Garreta25/DFur4638d/11991
+
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/70997_logo_espn_2.png" group-title="DEPORTES MEXICO", ESPN 2 MX HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11989
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/espn-3-logo-01.png" group-title="DEPORTES MEXICO", ESPN 3 MX HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11990
+
+#EXTINF:-1 tvg-logo="https://alruckershow.com/wp-content/uploads/2018/04/espn-plus-logo.png" group-title="DEPORTES MEXICO", ESPN PLUS MX HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11992
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" group-title="DEPORTES ESPAÑA", MOVISTAR VAMOS
+http://planettvweb.com:8091/Garreta25/DFur4638d/12102
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="DEPORTES ARGENTINA HD", ESPN PREMIUN
+http://planettvweb.com:8091/Garreta25/DFur4638d/16453
+
+#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES MEXICO", TUDN HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/50497
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78KfOGOqXvTja8lRFwgjmkprRmI.jpg" group-title="PELICULAS DE COMEDIAS", Un hipster en la España vacía (2024)
+http://planettvweb.com:8091/movie/Garreta25/DFur4638d/99130.mkv
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="DEPORTES ESPAÑA", BEIN SPORT SP
+http://planettvweb.com:8091/Garreta25/DFur4638d/12051
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-EUROSPORT.png" group-title="DEPORTES ESPAÑA", CANAL EURO SPORTS HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/12497
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-EUROSPORT.png" group-title="DEPORTES ESPAÑA", EUROSPORT 2
+http://planettvweb.com:8091/Garreta25/DFur4638d/14263
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="DEPORTES ESPAÑA", Dazn La lig@
+http://planettvweb.com:8091/Garreta25/DFur4638d/11910
+
+#EXTINF:-1 tvg-logo="https://tvalcolea.com/wp-content/uploads/2018/03/iberalia.jpg" group-title="DEPORTES ESPAÑA", IBERALIA TV
+http://planettvweb.com:8091/Garreta25/DFur4638d/12113
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-CAZA-Y-PESCA.png" group-title="DEPORTES ESPAÑA", CAZA Y PESCA HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11909
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="DEPORTES ESPAÑA", Dazn Lalig@ 2 HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/12498
+
+#EXTINF:-1 tvg-logo="https://www.newdelhitimes.com/wp-content/uploads/2016/09/La_Liga_logotip.jpg" group-title="DEPORTES ESPAÑA", ESP LIG@ HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/12050
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/aebosn1641133426.png" group-title="DEPORTES ESPAÑA", Fox Deportes
+http://planettvweb.com:8091/Garreta25/DFur4638d/12116
+
+#EXTINF:-1 tvg-logo="https://www.giztele.com/wp-content/uploads/2018/06/Movistar-Deportes.png" group-title="DEPORTES ESPAÑA", MOVISTAR DEPORTES
+http://planettvweb.com:8091/Garreta25/DFur4638d/12049
+
+#EXTINF:-1 tvg-logo="https://static.motor.es/fotos-noticias/2018/03/min652x435/movistar-f1-confirma-equipo-retransmision-temporada-2018-201844563_1.jpg" group-title="DEPORTES ESPAÑA", MOVISTAR F1
+http://planettvweb.com:8091/Garreta25/DFur4638d/12048
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuVXSkg-Wvk4MuZZDVby4AUdKHgYWBfC0PVmwjWAxdGlQUohl0" group-title="DEPORTES ESPAÑA", MOVISTAR GOLF
+http://planettvweb.com:8091/Garreta25/DFur4638d/12047
+
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/286-2863527_movistar-formula-1-logo-hd-png-download.png" group-title="DEPORTES ESPAÑA", Movistar Deportes 2 HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/22347
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="ESPAÑA", TVE 24H
+http://planettvweb.com:8091/Garreta25/DFur4638d/17895
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1000px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA", LA SEXTA
+http://planettvweb.com:8091/Garreta25/DFur4638d/18003
+
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/logo_antena3_antes.jpg" group-title="ESPAÑA", ANTENA 3 HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11826
+
+#EXTINF:-1 tvg-logo="https://hispanicprwire.com/wp-content/uploads/2017/01/52095_1_51635.jpg" group-title="ESPAÑA", Antena 3 Int HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/20878
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png" group-title="ESPAÑA", TVE LA 1 HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11907
+
+#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="ESPAÑA", TVE LA 2 HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/12107
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/856px-Calle13_logo.svg.png" group-title="ESPAÑA", CALLE 13
+http://planettvweb.com:8091/Garreta25/DFur4638d/15003
+
+#EXTINF:-1 tvg-logo="https://mb.cision.com/Public/18576/3169816/94ade76b90036da2_800x800ar.jpg" group-title="ESPAÑA", DMAX
+http://planettvweb.com:8091/Garreta25/DFur4638d/38849
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="ESPAÑA", Telecinco HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/12108
+
+#EXTINF:-1 tvg-logo="https://programacion.tv/images/canal-cocina.png" group-title="ESPAÑA", CANAL COCINA
+http://planettvweb.com:8091/Garreta25/DFur4638d/12114
+
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="ESPAÑA", COCINA TV
+http://planettvweb.com:8091/Garreta25/DFur4638d/12112
+
+#EXTINF:-1 tvg-logo="https://elcorreoweb.es/binrepository/canal-sur_20401336_20200327184036.jpg" group-title="ESPAÑA", CANAL SUR
+http://planettvweb.com:8091/Garreta25/DFur4638d/12100
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/e5008e/canal_historia/450_1000.gif" group-title="ESPAÑA", HISTORIA
+http://planettvweb.com:8091/Garreta25/DFur4638d/12111
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Movistar_estrenos.png" group-title="ESPAÑA", MOVISTAR ESTRENOS
+http://planettvweb.com:8091/Garreta25/DFur4638d/12110
+
+#EXTINF:-1 tvg-logo="https://plazatoros.tv/assets-new/images/features/feature1.png" group-title="ESPAÑA", Canal Toros tv
+http://planettvweb.com:8091/Garreta25/DFur4638d/12101
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Cuatro_HD2012.png" group-title="ESPAÑA", Cuatro HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/14414
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" group-title="DEPORTES ESPAÑA", MOVISTAR VAMOS
+http://planettvweb.com:8091/Garreta25/DFur4638d/12102
+
+#EXTINF:-1 tvg-logo="http://afindemes.republica.com/files/2011/03/ciclo_de_documentales_gratis_en_madrid-450x265.jpg" group-title="ESPAÑA", ODISEA
+http://planettvweb.com:8091/Garreta25/DFur4638d/12499
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e0/f7/83/e0f7833a4fe03f0e6efe79b72403dba7.jpg" group-title="ESPAÑA", NAT GEO HD ES
+http://planettvweb.com:8091/Garreta25/DFur4638d/23029
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6c/9e/c0/6c9ec01d4a9a69672540d0dc29551f22.jpg" group-title="ESPAÑA", NAT GEO WILD HD ES
+http://planettvweb.com:8091/Garreta25/DFur4638d/23030
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Nova_Television_Logo.svg/1280px-Nova_Television_Logo.svg.png" group-title="ESPAÑA", NOVA
+http://planettvweb.com:8091/Garreta25/DFur4638d/38383
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/800px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="ESPAÑA", FDF HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/64118
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPAÑA", De Casa
+http://planettvweb.com:8091/Garreta25/DFur4638d/144323
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGdlrr5oLMGjNXMiUUYVuPhT04H.jpg" group-title="CINE ARGENTINO/URUGUAYO", Made in Argentina (1987)
+http://planettvweb.com:8091/movie/Garreta25/DFur4638d/91353.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg" group-title="PELICULAS DE DRAMA", Argentina, 1985 (2022)
+http://planettvweb.com:8091/movie/Garreta25/DFur4638d/121414.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg" group-title="CINE ARGENTINO/URUGUAYO", Argentina, 1985 (2022)
+http://planettvweb.com:8091/movie/Garreta25/DFur4638d/76819.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqcn7wiExfUBDT0L5xMCOngepn5.jpg" group-title="CONCIERTOS", Roger Waters Live In Argentina (Ing-2023)
+http://planettvweb.com:8091/movie/Garreta25/DFur4638d/137969.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="ARGENTINA", AMERICA SD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11866
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="ARGENTINA", AMERICA
+http://planettvweb.com:8091/Garreta25/DFur4638d/28071
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="ARGENTINA", TELEFE SD 1
+http://planettvweb.com:8091/Garreta25/DFur4638d/11840
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-tv-publica.png" group-title="ARGENTINA", TV PUBLICA SD
+http://planettvweb.com:8091/Garreta25/DFur4638d/14415
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-C5N.png" group-title="ARGENTINA", C5N
+http://planettvweb.com:8091/Garreta25/DFur4638d/11863
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-nueve.png" group-title="ARGENTINA", CANAL 9 SD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11859
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA", TN SD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11839
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-LN+.png" group-title="ARGENTINA", LN+ SD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11878
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" group-title="ARGENTINA", CANAL 13 SD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11862
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" group-title="ARGENTINA", Canal 13 Internacional
+http://planettvweb.com:8091/Garreta25/DFur4638d/12443
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-A24.png" group-title="ARGENTINA", A 24 SD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11865
+
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2010/07/ARGENTINISIMA-.jpg" group-title="ARGENTINA", ARGENTINISIMA
+http://planettvweb.com:8091/Garreta25/DFur4638d/11864
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-C5N.png" group-title="ARGENTINA", C5N HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11902
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-nueve.png" group-title="ARGENTINA", CANAL 9 HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11899
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" group-title="ARGENTINA", CANAL 13 HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11901
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-cronica.png" group-title="ARGENTINA", CRONICA TV HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11894
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-canal-26.png" group-title="ARGENTINA", CANAL 26 HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11900
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="ARGENTINA", TELEFE HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/11879
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="DEPORTES ARGENTINA HD", ESPN SUR
+http://planettvweb.com:8091/Garreta25/DFur4638d/20324
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES ARGENTINA HD", ESPN 2 SUR_
+http://planettvweb.com:8091/Garreta25/DFur4638d/20325
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES ARGENTINA HD", ESPN 3 SUR
+http://planettvweb.com:8091/Garreta25/DFur4638d/20326
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="DEPORTES ARGENTINA HD", ESPN 4 HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/21457
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="DEPORTES ARGENTINA HD", ESPN ARG HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/12755
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES ARGENTINA HD", ESPN 2 HD ARG
+http://planettvweb.com:8091/Garreta25/DFur4638d/11996
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES ARGENTINA HD", ESPN 3 HD ARG
+http://planettvweb.com:8091/Garreta25/DFur4638d/11915
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="DEPORTES ARGENTINA HD", ESPN PREMIUM ARG
+http://planettvweb.com:8091/Garreta25/DFur4638d/14637
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES ARGENTINA HD", FOX SPORTS HD SUR
+http://planettvweb.com:8091/Garreta25/DFur4638d/11702
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="DEPORTES ARGENTINA HD", FOX SPORTS 2 SUR HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/20328
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="DEPORTES ARGENTINA HD", FOX SPORTS 3 SUR HD
+http://planettvweb.com:8091/Garreta25/DFur4638d/20329
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Torneos.png/220px-Torneos.png" group-title="DEPORTES ARGENTINA HD", TYC SPORTS 2
+http://planettvweb.com:8091/Garreta25/DFur4638d/20327
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="DEPORTES ARGENTINA HD", TYC SPORTS INTERNACIONAL
+http://planettvweb.com:8091/Garreta25/DFur4638d/16278
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="DEPORTES ARGENTINA HD", ESPN PREMIUN
+http://planettvweb.com:8091/Garreta25/DFur4638d/16453
+
